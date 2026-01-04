@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sai Haritha Maddali 👋  
 
-<!--
-**harithamaddali29/harithamaddali29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Undergraduate in Artificial Intelligence & Machine Learning  
+💻 Interested in AI, Machine Learning, Computer Vision & Web Development  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an AIML undergraduate with a strong interest in building practical and accessible technology solutions.  
+I enjoy working on Python-based projects, data-driven applications, and frontend web development.  
+Currently, I am looking for internship opportunities to gain real-world experience and improve my skills.
+
+---
+
+## 🛠️ Skills
+- Programming: Python, C (Basics)
+- Web Development: HTML, CSS, JavaScript
+- AI & Data: Machine Learning (Basics), Data Science
+- Libraries & Tools: NumPy, Pandas, OpenCV, MediaPipe
+- Database & Tools: SQL (Basics), Git, GitHub
+
+---
+
+## 📌 Projects
+- 👁️ Eye Driven Cursor Manager – Computer vision–based hands-free cursor control system  
+- 🌐 Personal Portfolio Website – Built using HTML, CSS, and JavaScript  
+
+(More projects coming soon!)
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/haritha-maddali-120272306/
+
+⭐ Thanks for visiting my GitHub profile!
